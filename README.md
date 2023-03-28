@@ -10,4 +10,4 @@ $ ./a.out
 JAVA
 To run a .java:
 $ javac name.java
-$ java nama
+$ java name
